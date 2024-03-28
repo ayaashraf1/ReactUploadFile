@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" errors="0" time="2.567">
+  <testsuite name="FileUpload" errors="0" failures="0" skipped="0" timestamp="2024-03-27T09:35:04" time="2.184" tests="5">
+    <testcase classname="FileUpload renders without errors" name="FileUpload renders without errors" time="0.049">
+    </testcase>
+    <testcase classname="FileUpload handles file selection and upload" name="FileUpload handles file selection and upload" time="0.055">
+    </testcase>
+    <testcase classname="FileUpload handles file selection and upload failure" name="FileUpload handles file selection and upload failure" time="0.018">
+    </testcase>
+    <testcase classname="FileUpload handles file selection and preview img" name="FileUpload handles file selection and preview img" time="0.006">
+    </testcase>
+    <testcase classname="FileUpload handles file selection and preview video" name="FileUpload handles file selection and preview video" time="0.005">
+    </testcase>
+  </testsuite>
+</testsuites>

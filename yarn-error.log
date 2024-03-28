@@ -1,0 +1,26 @@
+Arguments: 
+  /Users/sayeda14/.nvm/versions/node/v18.13.0/bin/node /Users/sayeda14/.nvm/versions/node/v18.13.0/bin/yarn add tailwindcss
+
+PATH: 
+  /Users/sayeda14/.nvm/versions/node/v18.13.0/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Library/Frameworks/Python.framework/Versions/3.11/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Applications/Privileges.app/Contents/Resources:/Users/sayeda14/.nvm/versions/node/v18.13.0/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Library/Frameworks/Python.framework/Versions/3.11/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.13.0
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  Error: ENOENT: no such file or directory, copyfile '/Users/sayeda14/Library/Caches/Yarn/v6/npm-yaml-2.4.1-2e57e0b5e995292c25c75d2658f0664765210eed-integrity/node_modules/yaml/browser/dist/compose/resolve-block-scalar.js' -> '/Users/sayeda14/Desktop/React-File-Upload/node_modules/yaml/browser/dist/compose/resolve-block-scalar.js'
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
